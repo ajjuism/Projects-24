@@ -67,7 +67,7 @@ const projects: Project[] = [
   },
   {
     title: "Jagath Narayan - Portfolio",
-    description: "A quick weekend project to showcase Jagath's work. Built with vanilla JavaScript and Bootstrap.",
+    description: "A quick weekend project to showcase Jagath&apos;s work. Built with vanilla JavaScript and Bootstrap.",
     link: "https://jagathnarayanan.com/",
     icon: <Users size={24} />
   },
