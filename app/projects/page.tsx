@@ -188,7 +188,7 @@ export default function ProjectShowcase() {
       <div className="relative z-10">
         <nav className="absolute top-0 left-0 right-0 p-4 flex justify-between items-center z-10">
           <div className="text-white pl-4 sm:pl-8">
-            <Link href="/" className="flex items-center text-white hover:text-gray-300 transition-colors">
+            <Link href="https://www.ajjuism.com/" className="flex items-center text-white hover:text-gray-300 transition-colors">
               <ArrowLeft className="mr-2" />
               <span className="text-sm font-medium">Back to Home</span>
             </Link>
