@@ -25,13 +25,13 @@ const projects: Project[] = [
   },
   {
     title: "Pxl8.studio",
-    description: "Pxl8 Studio sprang from a desire to tackle everyday challenges with straightforward solutions. It's a passion project where fun meets function, simplifying personal tasks with creative flair.",
+    description: "Pxl8 Studio sprang from a desire to tackle everyday challenges with straightforward solutions. It&apos;s a passion project where fun meets function, simplifying personal tasks with creative flair.",
     link: "https://www.pxl8.studio/",
     icon: <Code size={24} />
   },
   {
     title: "Juno",
-    description: "Born out of necessity, Juno is a no-nonsense task manager that keeps things simple. It's a work in progress, now equipped with user authentication using Firebase, and built on React to streamline tasks.",
+    description: "Born out of necessity, Juno is a no-nonsense task manager that keeps things simple. It&apos;s a work in progress, now equipped with user authentication using Firebase, and built on React to streamline tasks.",
     link: "https://gsd-kohl.vercel.app/",
     icon: <Briefcase size={24} />
   },
